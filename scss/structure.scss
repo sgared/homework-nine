@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 16px;
+}
+.wrapper {
+  background-color: rgba(255, 255, 253, 0.8);
+  font-size: 26px;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: left;
+  p {
+  }
+  h1 {
+  }
+  img {
+    width: 600px;
+  }
+}
